@@ -29,7 +29,12 @@ html,
   border-radius: 0.5em;
   flex: 2;
 }
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 /* ==== GRID SYSTEM ==== */
 
